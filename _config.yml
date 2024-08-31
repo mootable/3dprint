@@ -5,4 +5,10 @@ theme: just-the-docs
 url: https://mootable.github.io/3dprint/
 
 aux_links:
-  Template Repository: https://github.com/mootable/3dprint
+  Github Repository: https://github.com/mootable/3dprint
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "11.0.2"
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
