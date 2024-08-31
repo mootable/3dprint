@@ -1,6 +1,17 @@
 title: Mootable 3D Print
 description: 3D print resources by mootable
 theme: just-the-docs
+repository: mootable/3dprint # for github-metadata
+
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
 
 url: https://mootable.github.io/3dprint/
 
