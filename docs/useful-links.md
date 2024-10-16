@@ -22,3 +22,6 @@ nav_order: 99
   * [Toolhead Can 2209](https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2240_2209%20CAN)
   * [Manta-M8P](https://github.com/bigtreetech/Manta-M8P)
 * [E3D Revo](https://e3d-online.com/pages/help-centre-revo-voron) my hotend
+
+# Wishlist
+* https://github.com/LoganFraser/VoronMods/tree/main/DecontaminatorTrident  
